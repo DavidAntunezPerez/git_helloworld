@@ -1,4 +1,6 @@
 # git_try
+### Description
+## Lorem Ipsum
 Trying and learning Git & GitHub.
 I'm trying things on **Git and GitHub** 
 Dicunt percipit deserunt ut usu. *Aliquip delenit an eam*, vocent vituperata vim ea. Ei mollis audire interpretaris cum, ei impedit fierent sea. Ius at homero noster prompta, ea sit dignissim vituperata efficiendi. Natum placerat ad mei.
