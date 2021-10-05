@@ -1,3 +1,2 @@
 HI! This is just a little try :D
-<img src="/media/sf_CompartidaVM/Programacion/pruebagit/git_try/github.png"> 
-Image :D
+
